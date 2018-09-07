@@ -14,9 +14,9 @@ PyQt4 + python3.6.x 写的界面<br>
 
 
 
-<h3>操作步骤：</h3>
-1.  双击打开可执行文件 tool.exe  (文件地址在本文件夹的dlist文件夹中)<br>
-    或者将exe文件发送快捷方式到桌面，以后就不用每次到这里面来打开exe文件了<br>
+<h3>操作步骤：</h3><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;1.  双击打开可执行文件 tool.exe  (文件地址在本文件夹的dlist文件夹中)<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;或者将exe文件发送快捷方式到桌面，以后就不用每次到这里面来打开exe文件了<br>
 
 2.  文献网址：复制你在WOS（web of science）网站中搜索关键词后的网址（注意这里的网址填写 你搜索一些关键词之后的网址哦）<br>
 
